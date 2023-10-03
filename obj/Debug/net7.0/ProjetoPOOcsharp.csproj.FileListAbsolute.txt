@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\bin\Debug\net7.0\ProjetoPOOcsharp.exe
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\bin\Debug\net7.0\ProjetoPOOcsharp.deps.json
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\bin\Debug\net7.0\ProjetoPOOcsharp.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\bin\Debug\net7.0\ProjetoPOOcsharp.dll
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\bin\Debug\net7.0\ProjetoPOOcsharp.pdb
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\ProjetoPOOcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\ProjetoPOOcsharp.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\ProjetoPOOcsharp.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\ProjetoPOOcsharp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\ProjetoPOOcsharp.dll
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\refint\ProjetoPOOcsharp.dll
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\ProjetoPOOcsharp.pdb
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\ProjetoPOOcsharp.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Documentos\ProjetoPOOcsharp\ProjetoPOOcsharp\obj\Debug\net7.0\ref\ProjetoPOOcsharp.dll
